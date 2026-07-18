@@ -4,9 +4,9 @@
 Scientific Officer, Research Molecular Microbiology Group, MRC Unit The Gambia @ LSHTM
 
 I'm a wet-lab molecular microbiologist by training, now applying R-based computational
-workflows to microbiome, and environmental exposure data. My PhD research
+workflows to microbiome, and air pllution data. My PhD research
 examines how personal environmental exposures and the upper respiratory tract microbiome
-influence Streptococcus pneumoniae colonisation in Gambian children.
+influence *Streptococcus pneumoniae* colonisation in Gambian children.
 
 ## 🔬 Research interests
 - *Streptococcus pneumoniae* colonisation and disease
@@ -14,7 +14,7 @@ influence Streptococcus pneumoniae colonisation in Gambian children.
 - Air pollution & respiratory health
 - Pathogen genomics, metagenomics & metagenome-assembled genomes (MAGs)
 - Antimicrobial resistance
-- pediatric meningitis surveillance (*S. pneumoniae*, *H. influenzae*, *N. meningitidis*)
+- Pediatric meningitis surveillance (*S. pneumoniae*, *H. influenzae*, *N. meningitidis*)
 
 ## 📌 Featured work
 - **Preprint:** Shotgun metagenomic profiling of bacterial microbiomes, MAGs, and AMR
