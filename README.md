@@ -1,4 +1,4 @@
-# Hi, I'm Dam Khan 👋
+# Hi, I'm Dam Khan
 
 **Molecular Microbiologist | Genomics Researcher | PhD Researcher, Infection Biology**  
 Scientific Officer, Research Molecular Microbiology Group, MRC Unit The Gambia @ LSHTM
@@ -24,8 +24,8 @@ influence *Streptococcus pneumoniae* colonisation in Gambian children.
   currently in preparation — code repositories will be made public on submission
 
 ## 🛠️ Skills
-**Wet lab:** DNA/RNA extraction, PCR/qPCR, bacterial culture & AST, sequencing library
-prep, ISO 15189 laboratory quality management
+**Wet lab:** Bacterial culture, AST, biochemical tests, DNA/RNA extraction, PCR/qPCR, gel electrophoresis, sequencing, metagenomics,
+ISO 15189 laboratory quality management
 
 **Computational:** R (DADA2, phyloseq, vegan, Maaslin3, NetCoMi), microbiome diversity
 & differential abundance analysis, PERMANOVA, Logistic Mixed-Effects Models, CARD-AMR,
