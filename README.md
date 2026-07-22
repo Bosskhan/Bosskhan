@@ -23,6 +23,27 @@ influence *Streptococcus pneumoniae* colonisation in Gambian children.
 - Two additional manuscripts (environmental exposure & respiratory microbiome analyses)
   currently in preparation — code repositories will be made public on submission
 
+  ## 📌 Research projects
+
+### 1. Shotgun metagenomic profiling of respiratory/blood microbiomes in Gambian children with pneumonia
+Bacterial microbiome composition, metagenome-assembled genomes, and antimicrobial
+resistance in respiratory and blood specimens from Gambian children with pneumonia.
+**Preprint:** [Research Square](https://doi.org/10.21203/rs.3.rs-8724320/v1)
+**Status:** Under peer review (major revisions in progress)
+🔗 [Repository](https://github.com/Bosskhan/The-Gambia-pneumonia-shotgun-metagenomics)
+
+### 2. Upper respiratory tract microbiome and *S. pneumoniae* colonisation in older children
+Longitudinal 16S rRNA characterisation of the URT microbiome in healthy children
+aged 5–14 in rural Gambia, and its relationship to pneumococcal colonisation.
+**Status:** Manuscript in preparation
+🔗 [Repository](https://github.com/Bosskhan/Upper-respiratory-microbiome-composition-and-pneumococcal-colonisation-in-The-Gambia)
+
+### 3. Personal environmental exposure and *S. pneumoniae* colonisation
+Longitudinal study of personal air pollution and climate exposure (PM2.5, CO,
+temperature, humidity) and pneumococcal colonisation in older children in rural Gambia.
+**Status:** Manuscript in preparation
+🔗 [Repository](https://github.com/Bosskhan/Gambia-air-pollution-pneumococcal-colonisation)
+
 ## 🛠️ Skills
 **Wet lab:** Bacterial culture, AST, biochemical tests, DNA/RNA extraction, PCR/qPCR, gel electrophoresis, sequencing, metagenomics,
 ISO 15189 laboratory quality management
